@@ -13,7 +13,7 @@ $ git reset <multi-utility program>
 $ git commit -m "Add two files"
 $ git commit --amend -m <my first c language program made by myself>
 $ git remote add origin <20240727_093427.jpg>
-$ git remote add origin <link>
+$ git remote add origin <MULTI-UT.C>
 $ git push -u origin master
 $ git clone <clone>
 $ git pull
